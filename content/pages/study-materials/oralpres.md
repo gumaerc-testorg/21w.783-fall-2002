@@ -1,11 +1,11 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Oral Presentations
+type: CourseSection
 uid: 445c8339-6979-07ac-41b6-051d31b5b777
 ---
 

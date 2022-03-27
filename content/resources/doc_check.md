@@ -5,10 +5,10 @@ file: /media/courses/21w-783-science-and-engineering-writing-for-phase-ii-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Document Checklist
+type: OCWFile
 uid: 6d0945e5-97ac-c7a9-ee1b-fb386da63a27
 ---

@@ -1,11 +1,11 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Style
+type: CourseSection
 uid: 0710aa81-3ed2-0b99-5907-075e4e14d4d2
 ---
 

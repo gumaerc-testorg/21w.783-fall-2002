@@ -5,10 +5,10 @@ file: /media/courses/21w-783-science-and-engineering-writing-for-phase-ii-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Oral Presentation Checklist
+type: OCWFile
 uid: 1230d792-edcb-9365-36b5-501ad61cdf2f
 ---
