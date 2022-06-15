@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides study materials on technical writing.
 learning_resource_types: []
+ocw_type: ''
 title: Study Materials
-type: CourseSection
 uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 ---
 
@@ -16,7 +17,7 @@ I am pleased to thank the numerous students who have born 21W.783 with patience 
 Table of Contents
 -----------------
 
-[Introduction]({{< baseurl >}}/pages/study-materials/intro)  
-[Style]({{< baseurl >}}/pages/study-materials/style)  
-[Graphics]({{< baseurl >}}/pages/study-materials/graphics)  
-[Oral Presentations]({{< baseurl >}}/pages/study-materials/oralpres)
+{{% resource_link 0cf8864a-bd1d-7ec3-c2b5-9b926e26a07e "Introduction" %}}  
+{{% resource_link 0710aa81-3ed2-0b99-5907-075e4e14d4d2 "Style" %}}  
+{{% resource_link 522c0b8b-00d1-351f-5699-26ba06b8241c "Graphics" %}}  
+{{% resource_link 445c8339-6979-07ac-41b6-051d31b5b777 "Oral Presentations" %}}

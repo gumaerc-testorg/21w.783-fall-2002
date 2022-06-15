@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: Guidelines and tips on avoiding style problems in technical writing.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Style
-type: CourseSection
 uid: 0710aa81-3ed2-0b99-5907-075e4e14d4d2
 ---
 
@@ -761,4 +762,4 @@ Clues that show where you might add more to a section:
 
 * * *
 
-[Previous Chapter: Introduction]({{< baseurl >}}/pages/study-materials/intro) | [Next Chapter: Graphics]({{< baseurl >}}/pages/study-materials/graphics)
+{{% resource_link 0cf8864a-bd1d-7ec3-c2b5-9b926e26a07e "Previous Chapter: Introduction" %}} | {{% resource_link 522c0b8b-00d1-351f-5699-26ba06b8241c "Next Chapter: Graphics" %}}

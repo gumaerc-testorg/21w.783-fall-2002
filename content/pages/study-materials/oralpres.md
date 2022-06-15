@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: Guidelines and tips on giving a oral presentation.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Oral Presentations
-type: CourseSection
 uid: 445c8339-6979-07ac-41b6-051d31b5b777
 ---
 
@@ -93,4 +94,4 @@ PRACTICE :: TEACH
 
 * * *
 
-[Previous Chapter: Graphics]({{< baseurl >}}/pages/study-materials/graphics)
+{{% resource_link 522c0b8b-00d1-351f-5699-26ba06b8241c "Previous Chapter: Graphics" %}}

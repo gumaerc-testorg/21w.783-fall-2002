@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: Guidelines and tips on using graphics in technical documents.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Graphics
-type: CourseSection
 uid: 522c0b8b-00d1-351f-5699-26ba06b8241c
 ---
 
@@ -30,4 +31,4 @@ Before too long, there will be examples of well done graphics here.
 
 * * *
 
-[Previous Chapter: Style]({{< baseurl >}}/pages/study-materials/style) | [Next Chapter: Oral Presentations]({{< baseurl >}}/pages/study-materials/oralpres)
+{{% resource_link 0710aa81-3ed2-0b99-5907-075e4e14d4d2 "Previous Chapter: Style" %}} | {{% resource_link 445c8339-6979-07ac-41b6-051d31b5b777 "Next Chapter: Oral Presentations" %}}

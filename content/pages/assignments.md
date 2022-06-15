@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the course assignments along with related
+  handouts.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: bd479003-54ed-3e1f-ddca-e90dfb7dd281
 ---
 
@@ -59,5 +61,5 @@ Homework 5
 Related Handouts
 ----------------
 
-Document Checklist ([PDF]({{< baseurl >}}/resources/doc_check))  
-Oral Presentation Checklist ([PDF]({{< baseurl >}}/resources/oral_check))
+Document Checklist ({{% resource_link 6d0945e5-97ac-c7a9-ee1b-fb386da63a27 "PDF" %}})  
+Oral Presentation Checklist ({{% resource_link 1230d792-edcb-9365-36b5-501ad61cdf2f "PDF" %}})

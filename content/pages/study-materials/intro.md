@@ -1,11 +1,12 @@
 ---
 content_type: page
+description: Guidelines and tips on technical writing.
 learning_resource_types: []
+ocw_type: ''
 parent_title: Study Materials
 parent_type: CourseSection
 parent_uid: 49099e13-dc62-f0ff-c3c2-039fe9597cf1
 title: Introduction
-type: CourseSection
 uid: 0cf8864a-bd1d-7ec3-c2b5-9b926e26a07e
 ---
 
@@ -122,5 +123,4 @@ The author's ultimate goal is to cultivate writing habits that make the reader h
 
 * * *
 
-[Next Chapter: Style  
-]({{< baseurl >}}/pages/study-materials/style)
+{{% resource_link "0710aa81-3ed2-0b99-5907-075e4e14d4d2" "Next Chapter: Style   " %}}

@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides a subject description and information
+  on course meeting times, instructional materials, teaching approach, grading, and
+  assessment of writing.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: b0f360c0-6833-8e32-7ac4-1f86fe95f931
 ---
 
@@ -14,7 +17,7 @@ Lectures: 1 session(s) / 2 weeks, 2 hour(s) / session
 Subject Description
 -------------------
 
-21W.783 is a series of seminars focusing on common writing problems faced by professional engineers and scientists. Participants will tune up their writing skills and prepare a pair of technical documents under the guidance of the instructor. The writing assignments focus on a single topic of the student's choosing, preferably one for which the necessary research has been done, or is in the process of being done. (For **Writing Topics**, see the [assignments]({{< baseurl >}}/pages/assignments) section.) In addition to the writing component, students will deliver an oral presentation based on the written work.
+21W.783 is a series of seminars focusing on common writing problems faced by professional engineers and scientists. Participants will tune up their writing skills and prepare a pair of technical documents under the guidance of the instructor. The writing assignments focus on a single topic of the student's choosing, preferably one for which the necessary research has been done, or is in the process of being done. (For **Writing Topics**, see the {{% resource_link bd479003-54ed-3e1f-ddca-e90dfb7dd281 "assignments" %}} section.) In addition to the writing component, students will deliver an oral presentation based on the written work.
 
 A grade of B- or better in this course satisfies Phase II of the writing requirement.
 
