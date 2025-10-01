@@ -24,7 +24,7 @@ Homework 1
 
 *   Due BEFORE you come to class #2. Write a brief paragraph or two explaining the nature of the document you expect to write for your final 21W.783 project. Try to include the title, purpose, audience, sources, and project background. I encourage you to send me this paragraph via e-mail.
 *   Due next time you come to class. Read three different technical documents in your field. If possible, pick different genres -- a thesis, a popular science article, and a journal article for instance. Very briefly (about three paragraphs total) comment on the writing. Please include a photocopy or printout of the first page of each document.
-*   Due next time you come to class. Read "[The Science of Scientific Writing](http://www.americanscientist.org/issues/feature/the-science-of-scientific-writing/1)."
+*   Due next time you come to class. Read "{{% resource_link "715fa523-44f6-44aa-902a-38c0980ff56c" "The Science of Scientific Writing" %}}."
 
 I encourage you to start writing your proposal -- the sooner you start, the better the final product will be.
 
