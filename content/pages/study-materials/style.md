@@ -377,7 +377,7 @@ This thesis develops and verifies a model for spring loaded camming devices.
 {{< anchor "pun" >}}{{< /anchor >}}Punctuation
 ----------------------------------------------
 
-If punctuation makes you feel uneasy because you don't know the rules, get a {{% resource_link "7936a3aa-540a-4d9a-a7b7-6d1c09a94fd5" "standard style guide" %}} and learn the rules. If you think that commas go where you naturally pause in a sentence, get a standard style guide and learn the rules.
+If punctuation makes you feel uneasy because you don't know the rules, get a [standard style guide](http://mit.edu/afs/athena/course/21/21.guide/) and learn the rules. If you think that commas go where you naturally pause in a sentence, get a standard style guide and learn the rules.
 
 Two things make writers who know punctuation rules feel uneasy about punctuation:
 

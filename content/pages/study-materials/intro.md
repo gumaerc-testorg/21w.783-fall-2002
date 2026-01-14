@@ -80,7 +80,7 @@ Proposal Structure
 
 Then the document falls off the edge of the world; there is no conclusion. The structure of the proposal is governed by how it is read. Most only read the summary.
 
-{{% resource_link "66642155-069b-4714-98e0-ee722925e4e5" "sample proposal" %}} (Courtesy of James Mahoney and Randy Knaggs. Used with permission.)
+[sample proposal](http://akbar.marlboro.edu/~mahoney/DropTest/DropProposal.html) (Courtesy of James Mahoney and Randy Knaggs. Used with permission.)
 
 The report is very similar to the proposal, but includes the results that follow the methods. With results, a conclusion can be drawn.
 
